@@ -1,0 +1,5 @@
+ Hello, Git and GitHub!
+ git init
+ git add hello.txt
+ git commit -m "Add hello.txt with greeting"
+ 
